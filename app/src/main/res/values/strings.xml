@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">drudroid</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="title_activity_add">AddActivity</string>
+    <string name="title_activity_registrazione">Registrazione</string>
+    <string name="title_activity_visualizzaarticolo">Visualizzaarticolo</string>
+    <string name="title_activity_account_info">Account_info</string>
+    <string name="title_activity_addcommento">Addcommento</string>
+    <string name="title_activity_addcopmmento">Addcopmmento</string>
+</resources>
